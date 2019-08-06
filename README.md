@@ -1,1 +1,1 @@
-# Curso React-Redux
+# curso-react-redux
